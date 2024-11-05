@@ -1,12 +1,9 @@
 
-#############################################################################################################
-#
 #                                   P   R   O   J   E   C   T
 #                                               of
 #     Assessing Regional Climate Resilience and Adaption Capacity to Climate-related Hazards in China: 
 #                      Cause-specific Hospitalizations and Related burdens
-#
-#############################################################################################################
+
 
 Dear Users,
 
@@ -30,6 +27,7 @@ School of Public Health, Peking University
 
 
 # Main Script:
+
 
 Step1_ResilienceMetrics.R
 Description: Build the regional climate resilience evaluation framework; Monte Carlo simulations
@@ -63,11 +61,11 @@ Step8_BurdenSummary.R
 Description: Extract the key infomation of the hazard, disease, age group specific PAF, disease and economic burdens
 Path: ~/Library/Mobile Documents/com~apple~CloudDocs/Project/City Resilience/Manuscript/Print/Submit/Code/Step8_BurdenSummary.R
 
+# Supplementary Visualization Script:
+
 Supplementary_PSM_Examination.R
 Description: Propensity score matching examination; Standardized mean differences and kernel density distribution before and after matching
 Path: ~/Library/Mobile Documents/com~apple~CloudDocs/Project/City Resilience/Manuscript/Print/Submit/Code/Supplementary_PSM_Examination.R
-
-# Supplementary Visualization Script:
 
 Supplementary_Main_Fig4_Burden.m
 
